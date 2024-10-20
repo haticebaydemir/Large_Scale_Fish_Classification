@@ -20,7 +20,7 @@ The images are 28x28 pixels in grayscale format.
 - scikit-learn
 
 ## Kaggle Link
-You can find the project on Kaggle at the following link: [ANN-DigitRecognizer](https://www.kaggle.com/code/haticebaydemir/ann-digitrecognizer/edit) 
+You can find the project on Kaggle at the following link: [ANN-DigitRecognizer](https://www.kaggle.com/code/haticebaydemir/ann-digitrecognizer) 
 
 
 ## Model Architecture
