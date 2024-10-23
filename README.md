@@ -71,4 +71,5 @@ Contributions to improve the project are welcome! Please fork the repository and
 For any questions or suggestions, please feel free to reach out using the contact information below:
 
 Email: baydemirhatice@hotmail.com
+
 LinkedIn: Hatice Baydemir
