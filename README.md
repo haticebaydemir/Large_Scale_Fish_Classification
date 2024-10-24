@@ -1,5 +1,5 @@
 
-# Balık Türleri Sınıflandırma Projesi 
+# Balık Türleri Sınıflandırma Projesi - %99.61 Accuracy
 Bu proje, farklı balık türlerini sınıflandırmak için derin öğrenme teknikleri kullanarak bir model geliştirmeyi amaçlamaktadır. Python programlama dili ve TensorFlow ile Keras kütüphaneleri kullanılarak inşa edilmiştir.
 
 ## Proje Amacı 
@@ -88,7 +88,7 @@ Bu sonuçlar, modelin çoğu balık türünü yüksek doğrulukla sınıflandır
 
 
 ## Kaggle Linki 
-Projenin detaylarına ve veri setine ulaşmak için: https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification
+Projenin detaylarına ve veri setine ulaşmak için: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification](https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824)
 
 ## İletişim 
 Herhangi bir soru veya öneriniz varsa, lütfen benimle iletişime geçin. Proje ile ilgili geri bildirimleriniz benim için değerlidir.
