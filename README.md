@@ -24,7 +24,7 @@ Veri seti, her tür için yeterli örneklem sunarak modelin genel performansın�
 - Toplam Görüntü Sayısı: 9000
 Her Tür İçin Örnek Sayısı: Denge sağlanarak her türden yeterli sayıda örnek bulunmaktadır.
 
-## Proje Yapısı 📁
+## Proje Yapısı 
 Proje aşağıdaki aşamalardan oluşmaktadır:
 
 1. **Gerekli Kütüphanelerin İçe Aktarılması**:
