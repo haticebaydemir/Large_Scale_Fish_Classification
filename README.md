@@ -86,13 +86,13 @@ Modelin her bir sınıf için doğruluk, hatırlama (recall) ve F1 skoru gibi me
 - Gilt-Head Bream: Precision: 1.00, Recall: 0.97, F1-Score: 0.98
 Bu sonuçlar, modelin çoğu balık türünü yüksek doğrulukla sınıflandırabildiğini göstermektedir.
 
+## Kaggle Linki 
+Projenin detaylarına ve veri setine ulaşmak için: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification]([https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824](https://www.kaggle.com/code/haticebaydemir/featureengineeringfordiabetesprediction))
 
-Kaggle Link
-For details about the project and access to the dataset, visit: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification](https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824)
+## İletişim 
+Herhangi bir soru veya öneriniz varsa, lütfen benimle iletişime geçin. Proje ile ilgili geri bildirimleriniz benim için değerlidir.
 
-Contact
-If you have any questions or suggestions, feel free to reach out. Your feedback on the project is highly appreciated.
-
-Email: baydemirhatice@hotmail.com
+E-posta: baydemirhatice@hotmail.com
 
 Linkedln: https://www.linkedin.com/in/haticebaydemir/
+
