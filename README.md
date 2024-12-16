@@ -87,12 +87,12 @@ Modelin her bir sınıf için doğruluk, hatırlama (recall) ve F1 skoru gibi me
 Bu sonuçlar, modelin çoğu balık türünü yüksek doğrulukla sınıflandırabildiğini göstermektedir.
 
 
-## Kaggle Linki 
-Projenin detaylarına ve veri setine ulaşmak için: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification](https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824)
+Kaggle Link
+For details about the project and access to the dataset, visit: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification](https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824)
 
-## İletişim 
-Herhangi bir soru veya öneriniz varsa, lütfen benimle iletişime geçin. Proje ile ilgili geri bildirimleriniz benim için değerlidir.
+Contact
+If you have any questions or suggestions, feel free to reach out. Your feedback on the project is highly appreciated.
 
-E-posta: baydemirhatice@hotmail.com
+Email: baydemirhatice@hotmail.com
 
 Linkedln: https://www.linkedin.com/in/haticebaydemir/
